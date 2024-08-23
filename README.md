@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/fridriik/fridriik/blob/82f3b44d91377fcf9213758745c33978bf1f6c1b/ff3.png" alt="Imagen" width="30">
+</p>
+
 ![](https://github.com/fridriik/fridriik/blob/07b6c53d4c86c8df90f8e416346e8d052f6c1c10/CV-FedericoFariasFSe.png)
 
 # ¡Hola! Soy Fridriik o llamame como ves ahí arriba 🐯👽👨‍🎨💻🇦🇷
@@ -30,6 +34,6 @@ Exploro la **intersección entre tecnología y diseño**, buscando siempre mejor
 ---
 
 ### Visita mi [portfolio](https://www.fridriik.com.ar) y de ahí dirigite a donde más quieras para ver mi trabajo en acción, ponerte en contacto conmigo y también porqué no compartir gustos!
- 
-
-
+<p align="center">
+  <img src="https://github.com/fridriik/fridriik/blob/82f3b44d91377fcf9213758745c33978bf1f6c1b/ff3.png" alt="Imagen" width="30">
+</p>
